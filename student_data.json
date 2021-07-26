@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Hardik Majethia",
+        "roll_no": 34,
+        "division": "G",
+        "branch": "AIDS",
+        "fees": 0,
+        "marks": {},
+        "assignments": 16,
+        "project": {}
+    },
+    {
+        "name": "Anshuman Chandra",
+        "roll_no": 60,
+        "division": "G",
+        "branch": "CS",
+        "fees": 0,
+        "marks": {},
+        "assignments": 16,
+        "project": {}
+    },
+    {
+        "name": "Gauri Phule",
+        "roll_no": 37,
+        "division": "G",
+        "branch": "ENTC",
+        "fees": 0,
+        "marks": {},
+        "assignments": 16,
+        "project": {}
+    },
+    {
+        "name": "Gyanranjan Sahoo",
+        "roll_no": 35,
+        "division": "G",
+        "branch": "ENTC",
+        "fees": 0,
+        "marks": {},
+        "assignments": 16,
+        "project": {}
+    },
+    {
+        "name": "Madhav Mahajan",
+        "roll_no": 63,
+        "division": "G",
+        "branch": "CS",
+        "fees": 0,
+        "marks": {},
+        "assignments": 16,
+        "project": {}
+    },
+    {
+        "name": "Raushan Ranjan",
+        "roll_no": 50,
+        "division": "G",
+        "branch": "ME",
+        "fees": 0,
+        "marks": {},
+        "assignments": 16,
+        "project": {}
+    }
+]
